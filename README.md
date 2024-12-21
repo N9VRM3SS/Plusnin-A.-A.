@@ -14,12 +14,22 @@
 №№Задание 1
 ##Ход работы:
 Написать программу Hello World на Python с запуском в Jupiter Notebook.
+
+```py
+
 print('Hello World')
+
+```
 
 ##Задание 2. 
 Ход работы:
 Написать программу Hello World на C# с запуском на Unity. 
+
+```py
+
 Console.WriteLine("Hello, World!");
+
+```
 
 ##Задание 3.
 Выполнить отчет
